@@ -248,7 +248,7 @@ ABOUT US SECTION
 }
 
 .curtain-design.about-background {
-  background: url(../img/about-background.png) no-repeat center center/cover;
+  background: url(../img/about-background.webp) no-repeat center center/cover;
 }
 
 /*======================================
@@ -543,7 +543,7 @@ HOME SECTION
 .counter {
   margin: 50px 0;
   padding: 100px 0;
-  background: url(../img/counter.png) no-repeat top center/cover;
+  background: url(../img/counter.webp) no-repeat top center/cover;
 }
 .counter .count-box {
   background-color: rgba(240, 240, 240, 0.7);
@@ -676,7 +676,7 @@ HOME SECTION
 
 .reviews {
   margin-top: 70px;
-  background: url(../img/review-background1.png) no-repeat center center/cover;
+  background: url(../img/review-background1.webp) no-repeat center center/cover;
   position: relative;
   padding: 100px 0;
 }
@@ -705,7 +705,7 @@ HOME SECTION
 }
 .reviews .carousel-inner .star-review {
   padding: 25px 70px;
-  background: url(../img/review-owl.png) no-repeat center/cover;
+  background: url(../img/review-owl.webp) no-repeat center/cover;
 }
 .reviews .carousel-inner .star-review .tricia {
   margin: 15px 0;
@@ -741,7 +741,7 @@ HOME SECTION
   right: -5%;
 }
 .reviews .star {
-  background: url(../img/star-shadow.png) no-repeat center center/cover;
+  background: url(../img/star-shadow.webp) no-repeat center center/cover;
   width: 100%;
   padding: 75px 15px;
 }
@@ -1198,7 +1198,7 @@ CONTACT US SECTION
 }
 
 .contact-form {
-  background: url(../img/form-background.jpg) no-repeat center right/cover;
+  background: url(../img/form-background.webp) no-repeat center right/cover;
   color: #fff;
   padding: 60px 0;
 }

@@ -10,7 +10,7 @@
                     </div>
                 </div>
                 <div class="col-md-8 col-12 p-0">
-                    <img src="assets/img/solar-films-page.png" alt="korea-blinds" class="w-100">
+                    <img src="assets/img/solar-films-page.webp" alt="korea-blinds" class="w-100">
                 </div>
             </div>
         </div>
@@ -196,10 +196,10 @@
                         <h1 class="pb-4 mt-0">Take A Look: <span> Our Works</span></h1>
                     </div>
                     <div class="owl-carousel owl-theme our-work">
-                        <div class="item"><img src="assets/img/solar-look-3.png" class="w-100"></div>
-                        <div class="item"><img src="assets/img/solar-look-4.png" class="w-100"></div>
-                        <div class="item"><img src="assets/img/solar-look-3.png" class="w-100"></div>
-                        <div class="item"><img src="assets/img/solar-look-4.png" class="w-100"></div>
+                        <div class="item"><img src="assets/img/solar-look-3.webp" class="w-100"></div>
+                        <div class="item"><img src="assets/img/solar-look-4.webp" class="w-100"></div>
+                        <div class="item"><img src="assets/img/solar-look-3.webp" class="w-100"></div>
+                        <div class="item"><img src="assets/img/solar-look-4.webp" class="w-100"></div>
                     </div>
                 </div>
             </div>
@@ -226,7 +226,7 @@
                     </div>
                 </div>
                 <div class="col-md-7 col-12 ps-lg-5 pe-lg-0">
-                    <img src="assets/img/get-in.png" alt="" class="w-100">
+                    <img src="assets/img/get-in.webp" alt="" class="w-100">
                 </div>
             </div>
         </div>

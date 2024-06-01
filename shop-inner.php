@@ -10,7 +10,7 @@
                     </div>
                 </div>
                 <div class="col-md-8 col-12 p-0">
-                    <img src="assets/img/shop-page.jpg" alt="shop" class="w-100">
+                    <img src="assets/img/shop-page.webp" alt="shop" class="w-100">
                 </div>
             </div>
         </div>

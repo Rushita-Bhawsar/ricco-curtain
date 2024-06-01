@@ -38,7 +38,7 @@
 <section>
     <div class="about">
         <div class="container-xxl p-0">
-            <img src="assets/img/about-collapse.png" alt="about" class="w-100">
+            <img src="assets/img/about-collapse.webp" alt="about" class="w-100">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-12 col-12 bg-white">
@@ -145,46 +145,46 @@
                     <div class="owl-slider">
                         <div id="carousel1" class="owl-carousel owl-brand">
                             <div class="item">
-                                <img src="assets/img/Singapore-1.png" alt="1000X1000" class="w-100">
+                                <img src="assets/img/Singapore-1.webp" alt="1000X1000" class="w-100">
                             </div>
                             <div class="item">
-                                <img src="assets/img/Singapore-2.png" alt="" class="w-100">
+                                <img src="assets/img/Singapore-2.webp" alt="" class="w-100">
                             </div>
                             <div class="item">
-                                <img src="assets/img/Singapore-1.png" alt="1000X1000" class="w-100">
+                                <img src="assets/img/Singapore-1.webp" alt="1000X1000" class="w-100">
                             </div>
                             <div class="item">
-                                <img src="assets/img/Singapore-2.png" alt="" class="w-100">
+                                <img src="assets/img/Singapore-2.webp" alt="" class="w-100">
                             </div>
                             <div class="item">
-                                <img src="assets/img/Singapore-1.png" alt="1000X1000" class="w-100">
+                                <img src="assets/img/Singapore-1.webp" alt="1000X1000" class="w-100">
                             </div>
                             <div class="item">
-                                <img src="assets/img/Singapore-2.png" alt="" class="w-100">
+                                <img src="assets/img/Singapore-2.webp" alt="" class="w-100">
                             </div>
                             <div class="item">
-                                <img src="assets/img/Singapore-1.png" alt="1000X1000" class="w-100">
+                                <img src="assets/img/Singapore-1.webp" alt="1000X1000" class="w-100">
                             </div>
                             <div class="item">
-                                <img src="assets/img/Singapore-2.png" alt="" class="w-100">
+                                <img src="assets/img/Singapore-2.webp" alt="" class="w-100">
                             </div>
                             <div class="item">
-                                <img src="assets/img/Singapore-1.png" alt="1000X1000" class="w-100">
+                                <img src="assets/img/Singapore-1.webp" alt="1000X1000" class="w-100">
                             </div>
                             <div class="item">
-                                <img src="assets/img/Singapore-2.png" alt="" class="w-100">
+                                <img src="assets/img/Singapore-2.webp" alt="" class="w-100">
                             </div>
                             <div class="item">
-                                <img src="assets/img/Singapore-1.png" alt="1000X1000" class="w-100">
+                                <img src="assets/img/Singapore-1.webp" alt="1000X1000" class="w-100">
                             </div>
                             <div class="item">
-                                <img src="assets/img/Singapore-2.png" alt="" class="w-100">
+                                <img src="assets/img/Singapore-2.webp" alt="" class="w-100">
                             </div>
                             <div class="item">
-                                <img src="assets/img/Singapore-1.png" alt="1000X1000" class="w-100">
+                                <img src="assets/img/Singapore-1.webp" alt="1000X1000" class="w-100">
                             </div>
                             <div class="item">
-                                <img src="assets/img/Singapore-2.png" alt="" class="w-100">
+                                <img src="assets/img/Singapore-2.webp" alt="" class="w-100">
                             </div>
                         </div>
                     </div>
@@ -212,7 +212,7 @@
                     </div>
                 </div>
                 <div class="col-md-7 ps-lg-5 pe-0">
-                    <img src="assets/img/get-in.png" alt="" class="w-100">
+                    <img src="assets/img/get-in.webp" alt="" class="w-100">
                 </div>
             </div>
         </div>

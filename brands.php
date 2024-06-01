@@ -10,7 +10,7 @@
                     </div>
                 </div>
                 <div class="col-md-8 col-12 p-0">
-                    <img src="assets/img/brands-page.jpg" alt="shop" class="w-100">
+                    <img src="assets/img/brands-page.webp" alt="shop" class="w-100">
                 </div>
             </div>
         </div>
@@ -25,40 +25,40 @@
                 <div class="col-lg-10">
                     <div class="row g-4 my-lg-5 my-2">
                         <div class="col-lg-3 col-md-4 col-6">
-                            <img src="assets/img/brands.jpg" class="w-100" alt="brands-img">
+                            <img src="assets/img/brands.webp" class="w-100" alt="brands-img">
                         </div>
                         <div class="col-lg-3 col-md-4 col-6">
-                            <img src="assets/img/brands.jpg" class="w-100" alt="brands-img">
+                            <img src="assets/img/brands.webp" class="w-100" alt="brands-img">
                         </div>
                         <div class="col-lg-3 col-md-4 col-6">
-                            <img src="assets/img/brands.jpg" class="w-100" alt="brands-img">
+                            <img src="assets/img/brands.webp" class="w-100" alt="brands-img">
                         </div>
                         <div class="col-lg-3 col-md-4 col-6">
-                            <img src="assets/img/brands.jpg" class="w-100" alt="brands-img">
+                            <img src="assets/img/brands.webp" class="w-100" alt="brands-img">
                         </div>
                         <div class="col-lg-3 col-md-4 col-6">
-                            <img src="assets/img/brands.jpg" class="w-100" alt="brands-img">
+                            <img src="assets/img/brands.webp" class="w-100" alt="brands-img">
                         </div>
                         <div class="col-lg-3 col-md-4 col-6">
-                            <img src="assets/img/brands.jpg" class="w-100" alt="brands-img">
+                            <img src="assets/img/brands.webp" class="w-100" alt="brands-img">
                         </div>
                         <div class="col-lg-3 col-md-4 col-6">
-                            <img src="assets/img/brands.jpg" class="w-100" alt="brands-img">
+                            <img src="assets/img/brands.webp" class="w-100" alt="brands-img">
                         </div>
                         <div class="col-lg-3 col-md-4 col-6">
-                            <img src="assets/img/brands.jpg" class="w-100" alt="brands-img">
+                            <img src="assets/img/brands.webp" class="w-100" alt="brands-img">
                         </div>
                         <div class="col-lg-3 col-md-4 col-6">
-                            <img src="assets/img/brands.jpg" class="w-100" alt="brands-img">
+                            <img src="assets/img/brands.webp" class="w-100" alt="brands-img">
                         </div>
                         <div class="col-lg-3 col-md-4 col-6">
-                            <img src="assets/img/brands.jpg" class="w-100" alt="brands-img">
+                            <img src="assets/img/brands.webp" class="w-100" alt="brands-img">
                         </div>
                         <div class="col-lg-3 col-md-4 col-6">
-                            <img src="assets/img/brands.jpg" class="w-100" alt="brands-img">
+                            <img src="assets/img/brands.webp" class="w-100" alt="brands-img">
                         </div>
                         <div class="col-lg-3 col-md-4 col-6">
-                            <img src="assets/img/brands.jpg" class="w-100" alt="brands-img">
+                            <img src="assets/img/brands.webp" class="w-100" alt="brands-img">
                         </div>
                     </div>
                     <div class="row py-5">

@@ -10,7 +10,7 @@
                     </div>
                 </div>
                 <div class="col-md-8 col-12 p-0">
-                    <img src="assets/img/korea-blinds.png" alt="korea-blinds" class="w-100">
+                    <img src="assets/img/korea-blinds.webp" alt="korea-blinds" class="w-100">
                 </div>
             </div>
         </div>
@@ -159,7 +159,7 @@
                 <div class="col-lg-5 col-md-6 col-12">
                     <div class="features">
                         <div class="feature-img text-center">
-                            <img src="assets/img/sofa.png" alt="layers" width="50px">
+                            <img src="assets/img/sofa.png" alt="sofa" width="50px">
                         </div>
                         <h5>Elegance at Its Peak: Premium Investment</h5>
                         <ul>
@@ -191,7 +191,7 @@
                 <div class="col-lg-5 col-md-6 col-12">
                     <div class="features">
                         <div class="feature-img text-center">
-                            <img src="assets/img/window.png" alt="layers" width="50px">
+                            <img src="assets/img/window.png" alt="window" width="50px">
                         </div>
                         <h5>Enhanced Comfort and Style</h5>
                         <ul>
@@ -219,10 +219,10 @@
                         <h1 class="pb-4 mt-0">Take A Look: <span> Our Works</span></h1>
                     </div>
                     <div class="owl-carousel owl-theme our-work">
-                        <div class="item"><img src="assets/img/blind3.png" class="w-100"></div>
-                        <div class="item"><img src="assets/img/blind4.png" class="w-100"></div>
-                        <div class="item"><img src="assets/img/blind3.png" class="w-100"></div>
-                        <div class="item"><img src="assets/img/blind4.png" class="w-100"></div>
+                        <div class="item"><img src="assets/img/blind3.webp" class="w-100"></div>
+                        <div class="item"><img src="assets/img/blind4.webp" class="w-100"></div>
+                        <div class="item"><img src="assets/img/blind3.webp" class="w-100"></div>
+                        <div class="item"><img src="assets/img/blind4.webp" class="w-100"></div>
                     </div>
                 </div>
             </div>
@@ -249,7 +249,7 @@
                     </div>
                 </div>
                 <div class="col-md-7 col-12 ps-lg-5 pe-lg-0">
-                    <img src="assets/img/get-in.png" alt="" class="w-100">
+                    <img src="assets/img/get-in.webp" alt="" class="w-100">
                 </div>
             </div>
         </div>

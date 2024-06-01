@@ -6,7 +6,7 @@
             <div id="carouselExampleIndicators" class="carousel slide carosel" data-bs-ride="true">
                 <a href="#home-design">
                     <div class="carousel-indicators">
-                        <div class="mb-4 carousel-arrow"><img src="assets/img/carousel-arrow.webp"></div>
+                        <div class="mb-4 carousel-arrow"><img src="assets/img/carousel-arrow.png"></div>
                         <button class="btn carousel-btn">Scoll Down</button>
                         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active d-none" aria-current="true" aria-label="Slide 1"></button>
                         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" class="d-none" aria-label="Slide 2"></button>
@@ -34,10 +34,10 @@
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-                    <span aria-hidden="true"><img src="assets/img/white-arrow-right.webp" alt=""></span>
+                    <span aria-hidden="true"><img src="assets/img/white-arrow-right.png" alt=""></span>
                 </button>
                 <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-                    <span aria-hidden="true"><img src="assets/img/white-arrow.webp" alt=""></span>
+                    <span aria-hidden="true"><img src="assets/img/white-arrow.png" alt=""></span>
                 </button>
             </div>
         </div>
@@ -84,7 +84,7 @@
                 <div class="col-lg-4 col-md-6 col-12 text-start">
                     <div class="ricco-curtain">
                         <div class="bg-color"></div>
-                        <img src="assets/img/ric-01.webp" class="py-3 img" width="35%" alt="quality">
+                        <img src="assets/img/ric-01.png" class="py-3 img" width="35%" alt="quality">
                         <div class="text-ricco">
                             <p class="text1 py-2">01</p>
                             <h4>Quality Assuarance</h4>
@@ -95,7 +95,7 @@
                 <div class="col-lg-4 col-md-6 col-12 text-start">
                     <div class="ricco-curtain">
                         <div class="bg-color"></div>
-                        <img src="assets/img/ric-02.webp" class="py-4 ps-3 img" width="35%" alt="quality">
+                        <img src="assets/img/ric-02.png" class="py-4 ps-3 img" width="35%" alt="quality">
                         <div class="text-ricco">
                             <p class="text1 py-2">02</p>
                             <h4>Wide Range Of Fabric</h4>
@@ -106,7 +106,7 @@
                 <div class="col-lg-4 col-md-6 col-12 text-start">
                     <div class="ricco-curtain">
                         <div class="bg-color"></div>
-                        <img src="assets/img/ric-03.webp" class="py-4 ps-3 img" width="35%" alt="quality">
+                        <img src="assets/img/ric-03.png" class="py-4 ps-3 img" width="35%" alt="quality">
                         <div class="text-ricco">
                             <p class="text1 py-2">03</p>
                             <h4>Customer Satisfaction</h4>
@@ -170,42 +170,42 @@
                 <div class="col-lg-2 col-md-4 col-6">
                     <div class="creative-window">
                         <h1>Step 1</h1>
-                        <img src="assets/img/message.webp" class="img-fluid" alt="message">
+                        <img src="assets/img/message.png" class="img-fluid" alt="message">
                         <p>Want a free consultation? Just give us a call.</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6">
                     <div class="creative-window">
                         <h1>Step 2</h1>
-                        <img src="assets/img/tool.webp" class="img-fluid" alt="message">
+                        <img src="assets/img/tool.png" class="img-fluid" alt="message">
                         <p>An estimate will be provided based on the measurements.</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6">
                     <div class="creative-window">
                         <h1>Step 3</h1>
-                        <img src="assets/img/conversation.webp" class="img-fluid" alt="message">
+                        <img src="assets/img/conversation.png" class="img-fluid" alt="message">
                         <p>Arrange a meeting in the shop or on-site to choose the fabric.</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6">
                     <div class="creative-window">
                         <h1>Step 4</h1>
-                        <img src="assets/img/vector-2.webp" class="img-fluid" alt="message">
+                        <img src="assets/img/vector-2.png" class="img-fluid" alt="message">
                         <p>We will come to your house or workplace to measure the area.</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6">
                     <div class="creative-window">
                         <h1>Step 5</h1>
-                        <img src="assets/img/notes.webp" class="img-fluid" alt="message">
+                        <img src="assets/img/notes.png" class="img-fluid" alt="message">
                         <p>The process of making bespoke curtains or blinds takes 3 weeks.</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4 col-6">
                     <div class="creative-window">
                         <h1>Step 6</h1>
-                        <img src="assets/img/cutrain-img.webp" class="img-fluid" alt="message">
+                        <img src="assets/img/cutrain-img.png" class="img-fluid" alt="message">
                         <p>We will install your curtains or blinds
                             when we complete.</p>
                     </div>
@@ -233,7 +233,7 @@
                                     </div>
                                     <h4 class="py-4">01. Day & Night Curtains</h4>
                                     <p>Day curtains allow some light in during the day for some privacy, while night curtains shut out all outside light for total privacy at night.</p>
-                                    <img src="assets/img/product-group.webp" alt="curtain" class="w-50 my-3"><br>
+                                    <img src="assets/img/product-group.png" alt="curtain" class="w-50 my-3"><br>
                                     <button class="btn-home mt-3">
                                         <div class="btn-text">
                                             <div class="learn">View Product</div><span><i class="fa fa-angle-right"></i></span>
@@ -246,10 +246,10 @@
                                     <img src="assets/img/product-carousel-1.webp" class="feature-img img-fluid" alt="curtain">
                                     <div class="d-flex">
                                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-                                            <span><img src="assets/img/white-arrow-right.webp" alt=""></span> &nbsp; Back
+                                            <span><img src="assets/img/white-arrow-right.png" alt=""></span> &nbsp; Back
                                         </button>
                                         <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-                                            Next &nbsp; <span><img src="assets/img/white-arrow.webp" alt=""></span>
+                                            Next &nbsp; <span><img src="assets/img/white-arrow.png" alt=""></span>
                                         </button>
                                     </div>
                                 </div>
@@ -265,7 +265,7 @@
                                     </div>
                                     <h4 class="py-4">02. SOMFY Indoor Motorized System</h4>
                                     <p>You're not the only one considering motorized blinds but unsure of the benefits. It's smart, sweet, and safe, attracting more ardent admirers.</p>
-                                    <img src="assets/img/product-group.webp" alt="curtain" class="w-50 my-3"><br>
+                                    <img src="assets/img/product-group.png" alt="curtain" class="w-50 my-3"><br>
                                     <button class="btn-home mt-3">
                                         <div class="btn-text">
                                             <div class="learn">View Product</div><span><i class="fa fa-angle-right"></i></span>
@@ -278,10 +278,10 @@
                                     <img src="assets/img/product-carousel-2.webp" class="feature-img img-fluid" alt="curtain">
                                     <div class="d-flex">
                                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-                                            <span><img src="assets/img/white-arrow-right.webp" alt=""></span> &nbsp; Back
+                                            <span><img src="assets/img/white-arrow-right.png" alt=""></span> &nbsp; Back
                                         </button>
                                         <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-                                            Next &nbsp; <span><img src="assets/img/white-arrow.webp" alt=""></span>
+                                            Next &nbsp; <span><img src="assets/img/white-arrow.png" alt=""></span>
                                         </button>
                                     </div>
                                 </div>
@@ -297,7 +297,7 @@
                                     </div>
                                     <h4 class="py-4">03. Ziptrak™ Outdoor System</h4>
                                     <p>You're not the only one considering motorized blinds but unsure of the benefits. It's smart, sweet, and safe, attracting more ardent admirers.</p>
-                                    <img src="assets/img/product-group.webp" alt="curtain" class="w-50 my-3"><br>
+                                    <img src="assets/img/product-group.png" alt="curtain" class="w-50 my-3"><br>
                                     <button class="btn-home mt-3">
                                         <div class="btn-text">
                                             <div class="learn">View Product</div><span><i class="fa fa-angle-right"></i></span>
@@ -310,10 +310,10 @@
                                     <img src="assets/img/product-carousel-3.webp" class="feature-img img-fluid" alt="curtain">
                                     <div class="d-flex">
                                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-                                            <span><img src="assets/img/white-arrow-right.webp" alt=""></span> &nbsp; Back
+                                            <span><img src="assets/img/white-arrow-right.png" alt=""></span> &nbsp; Back
                                         </button>
                                         <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-                                            Next &nbsp; <span><img src="assets/img/white-arrow.webp" alt=""></span>
+                                            Next &nbsp; <span><img src="assets/img/white-arrow.png" alt=""></span>
                                         </button>
                                     </div>
                                 </div>
@@ -329,7 +329,7 @@
                                     </div>
                                     <h4 class="py-4">04. Vinyl Flooring</h4>
                                     <p>Vinyl flooring is a water-resistant and waterproof option suitable for moist areas, offering durability and easy submersion and reuse.</p>
-                                    <img src="assets/img/product-group.webp" alt="curtain" class="w-50 my-3"><br>
+                                    <img src="assets/img/product-group.png" alt="curtain" class="w-50 my-3"><br>
                                     <button class="btn-home mt-3">
                                         <div class="btn-text">
                                             <div class="learn">View Product</div><span><i class="fa fa-angle-right"></i></span>
@@ -342,10 +342,10 @@
                                     <img src="assets/img/product-carousel-4.webp" class="feature-img img-fluid" alt="curtain">
                                     <div class="d-flex">
                                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-                                            <span><img src="assets/img/white-arrow-right.webp" alt=""></span> &nbsp; Back
+                                            <span><img src="assets/img/white-arrow-right.png" alt=""></span> &nbsp; Back
                                         </button>
                                         <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-                                            Next &nbsp; <span><img src="assets/img/white-arrow.webp" alt=""></span>
+                                            Next &nbsp; <span><img src="assets/img/white-arrow.png" alt=""></span>
                                         </button>
                                     </div>
                                 </div>
@@ -442,7 +442,7 @@
                                 <div class="star-review">
                                     <div class="tricia">
                                         <div class="tricia-name d-flex">
-                                            <img src="assets/img/tiricia-chen.webp" alt="tricia-chen" width="80px">
+                                            <img src="assets/img/tiricia-chen.png" alt="tricia-chen" width="80px">
                                             <h1>Tricia Chen</h1>
                                         </div>
                                         <button class="btn-home d-sm-block d-none">
@@ -458,7 +458,7 @@
                                 <div class="star-review">
                                     <div class="tricia">
                                         <div class="tricia-name d-flex">
-                                            <img src="assets/img/tiricia-chen.webp" alt="tricia-chen" width="80px">
+                                            <img src="assets/img/tiricia-chen.png" alt="tricia-chen" width="80px">
                                             <h1>Tricia Chen</h1>
                                         </div>
                                         <button class="btn-home d-sm-block d-none">
@@ -474,7 +474,7 @@
                                 <div class="star-review">
                                     <div class="tricia">
                                         <div class="tricia-name d-flex">
-                                            <img src="assets/img/tiricia-chen.webp" alt="tricia-chen" width="80px">
+                                            <img src="assets/img/tiricia-chen.png" alt="tricia-chen" width="80px">
                                             <h1>Tricia Chen</h1>
                                         </div>
                                         <button class="btn-home d-sm-block d-none">
@@ -490,7 +490,7 @@
                                 <div class="star-review">
                                     <div class="tricia">
                                         <div class="tricia-name d-flex">
-                                            <img src="assets/img/tiricia-chen.webp" alt="tricia-chen" width="80px">
+                                            <img src="assets/img/tiricia-chen.png" alt="tricia-chen" width="80px">
                                             <h1>Tricia Chen</h1>
                                         </div>
                                         <button class="btn-home d-sm-block d-none">
@@ -506,7 +506,7 @@
                                 <div class="star-review">
                                     <div class="tricia">
                                         <div class="tricia-name d-flex">
-                                            <img src="assets/img/tiricia-chen.webp" alt="tricia-chen" width="80px">
+                                            <img src="assets/img/tiricia-chen.png" alt="tricia-chen" width="80px">
                                             <h1>Tricia Chen</h1>
                                         </div>
                                         <button class="btn-home d-sm-block d-none">
@@ -520,10 +520,10 @@
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
-                            <img src="assets/img/blue-arrow-left.webp" alt="arrow-right">
+                            <img src="assets/img/blue-arrow-left.png" alt="arrow-right">
                         </button>
                         <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
-                            <img src="assets/img/blue-arrow.webp" alt="arrow-left">
+                            <img src="assets/img/blue-arrow.png" alt="arrow-left">
                         </button>
                     </div>
                 </div>

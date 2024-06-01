@@ -10,7 +10,7 @@
                     </div>
                 </div>
                 <div class="col-md-8 col-12 p-0">
-                    <img src="assets/img/service-page.png" alt="curtain" class="w-100">
+                    <img src="assets/img/service-page.webp" alt="curtain" class="w-100">
                 </div>
             </div>
         </div>
@@ -111,7 +111,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-5 col-md-6 col-12">
-                                    <img src="assets/img/service-carousel-1.png" class="w-100" alt="">
+                                    <img src="assets/img/service-carousel-1.webp" class="w-100" alt="">
                                 </div>
                             </div>
                         </div>
@@ -134,7 +134,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-5 col-md-6 col-12">
-                                    <img src="assets/img/service-carousel-2.png" class="w-100" alt="">
+                                    <img src="assets/img/service-carousel-2.webp" class="w-100" alt="">
                                 </div>
                             </div>
                         </div>
@@ -157,7 +157,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-5 col-md-6 col-12">
-                                    <img src="assets/img/service-carousel-3.jpg" class="w-100" alt="">
+                                    <img src="assets/img/service-carousel-3.webp" class="w-100" alt="">
                                 </div>
                             </div>
                         </div>
@@ -180,7 +180,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-5 col-md-6 col-12">
-                                    <img src="assets/img/service-carousel-4.jpg" class="w-100" alt="">
+                                    <img src="assets/img/service-carousel-4.webp" class="w-100" alt="">
                                 </div>
                             </div>
                         </div>
@@ -203,7 +203,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-5 col-md-6 col-12">
-                                    <img src="assets/img/service-carousel-5.jpg" class="w-100" alt="">
+                                    <img src="assets/img/service-carousel-5.webp" class="w-100" alt="">
                                 </div>
                             </div>
                         </div>
@@ -226,7 +226,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-5 col-md-6 col-12">
-                                    <img src="assets/img/service-carousel-6.jpg" class="w-100" alt="">
+                                    <img src="assets/img/service-carousel-6.webp" class="w-100" alt="">
                                 </div>
                             </div>
                         </div>
@@ -255,7 +255,7 @@
                     </div>
                 </div>
                 <div class="col-md-7 ps-lg-5 pe-0">
-                    <img src="assets/img/get-in.png" alt="" class="w-100">
+                    <img src="assets/img/get-in.webp" alt="" class="w-100">
                 </div>
             </div>
         </div>

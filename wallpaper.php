@@ -182,10 +182,10 @@
                         <h1 class="pb-4 mt-0">Take A Look: <span> Our Works</span></h1>
                     </div>
                     <div class="owl-carousel owl-theme our-work">
-                        <div class="item"><img src="assets/img/wall3.png" class="w-100"></div>
-                        <div class="item"><img src="assets/img/wall4.png" class="w-100"></div>
-                        <div class="item"><img src="assets/img/wall3.png" class="w-100"></div>
-                        <div class="item"><img src="assets/img/wall4.png" class="w-100"></div>
+                        <div class="item"><img src="assets/img/wall3.webp" class="w-100"></div>
+                        <div class="item"><img src="assets/img/wall4.webp" class="w-100"></div>
+                        <div class="item"><img src="assets/img/wall3.webp" class="w-100"></div>
+                        <div class="item"><img src="assets/img/wall4.webp" class="w-100"></div>
                     </div>
                 </div>
             </div>
@@ -212,7 +212,7 @@
                     </div>
                 </div>
                 <div class="col-md-7 col-12 ps-lg-5 pe-lg-0">
-                    <img src="assets/img/get-in.png" alt="" class="w-100">
+                    <img src="assets/img/get-in.webp" alt="" class="w-100">
                 </div>
             </div>
         </div>

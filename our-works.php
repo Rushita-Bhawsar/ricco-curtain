@@ -10,7 +10,7 @@
                     </div>
                 </div>
                 <div class="col-md-8 col-12 p-0">
-                    <img src="assets/img/roller-page.png" alt="korea-blinds" class="w-100">
+                    <img src="assets/img/roller-page.webp" alt="korea-blinds" class="w-100">
                 </div>
             </div>
         </div>
@@ -67,7 +67,7 @@
                     </div>
                 </div>
                 <div class="col-md-7 col-12 ps-lg-5 pe-lg-0">
-                    <img src="assets/img/get-in.png" alt="" class="w-100">
+                    <img src="assets/img/get-in.webp" alt="" class="w-100">
                 </div>
             </div>
         </div>
