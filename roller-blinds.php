@@ -1,0 +1,254 @@
+<?php include('header.php') ?>
+<!------------------------ section-1 daynight-curtain ---------------------->
+<section>
+    <div class="daynight-curtain">
+        <div class="container-xxl">
+            <div class="row align-items-center">
+                <div class="col-md-4 col-12 text-center">
+                    <div class="test-simple">
+                        <h1>Roller Blinds</h1>
+                    </div>
+                </div>
+                <div class="col-md-8 col-12 p-0">
+                    <img src="assets/img/roller-page.png" alt="korea-blinds" class="w-100">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!------------------------ section-2 meet our ---------------------->
+<section>
+    <div class="meet-our">
+        <div class="container">
+            <div id="carouselExampleFade" class="carousel slide carousel-dark carousel-fade" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="row g-lg-5 align-items-center">
+                            <div class="col-lg-6 col-12">
+                                <div class="feature-content">
+                                    <div class="test-primary">
+                                        <h1 class="pb-2 mt-0">Meet Our: <span> Roller Blinds</span></h1>
+                                    </div>
+                                    <p>If you are looking for simple and elegant window coverings, roller blinds make the perfect choice. Roller blinds need no introduction. Apart from providing privacy, they also double up as decorative pieces to enhance your overall interior design – Whether it’s the small side window at the kitchen, tall vertical window by the stairs or the private windows of your bedrooms.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-12">
+                                <div class="img-shadow">
+                                    <img src="assets/img/owl-korea.webp" class="feature-img img-fluid" alt="curtain">
+                                    <div class="d-flex">
+                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+                                            <span><img src="assets/img/white-arrow-right.png" alt=""></span> &nbsp; Back
+                                        </button>
+                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+                                            Next &nbsp; <span><img src="assets/img/white-arrow.png" alt=""></span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="row g-lg-5 align-items-center">
+                            <div class="col-lg-6 col-12">
+                                <div class="feature-content">
+                                    <div class="test-primary">
+                                        <h1 class="pb-2 mt-0">Meet Our: <span> Roller Blinds</span></h1>
+                                    </div>
+                                    <p>If you are looking for simple and elegant window coverings, roller blinds make the perfect choice. Roller blinds need no introduction. Apart from providing privacy, they also double up as decorative pieces to enhance your overall interior design – Whether it’s the small side window at the kitchen, tall vertical window by the stairs or the private windows of your bedrooms.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-12">
+                                <div class="img-shadow">
+                                    <img src="assets/img/product-carousel-2.webp" class="feature-img img-fluid" alt="curtain">
+                                    <div class="d-flex">
+                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+                                            <span><img src="assets/img/white-arrow-right.png" alt=""></span> &nbsp; Back
+                                        </button>
+                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+                                            Next &nbsp; <span><img src="assets/img/white-arrow.png" alt=""></span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="row g-lg-5 align-items-center">
+                            <div class="col-lg-6 col-12">
+                                <div class="feature-content">
+                                    <div class="test-primary">
+                                        <h1 class="pb-2 mt-0">Meet Our: <span> Roller Blinds</span></h1>
+                                    </div>
+                                    <p>If you are looking for simple and elegant window coverings, roller blinds make the perfect choice. Roller blinds need no introduction. Apart from providing privacy, they also double up as decorative pieces to enhance your overall interior design – Whether it’s the small side window at the kitchen, tall vertical window by the stairs or the private windows of your bedrooms.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-12">
+                                <div class="img-shadow">
+                                    <img src="assets/img/product-carousel-3.webp" class="feature-img img-fluid" alt="curtain">
+                                    <div class="d-flex">
+                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+                                            <span><img src="assets/img/white-arrow-right.png" alt=""></span> &nbsp; Back
+                                        </button>
+                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+                                            Next &nbsp; <span><img src="assets/img/white-arrow.png" alt=""></span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="row g-lg-5 align-items-center">
+                            <div class="col-lg-6 col-12">
+                                <div class="feature-content">
+                                    <div class="test-primary">
+                                        <h1 class="pb-2 mt-0">Meet Our: <span> Roller Blinds</span></h1>
+                                    </div>
+                                    <p>If you are looking for simple and elegant window coverings, roller blinds make the perfect choice. Roller blinds need no introduction. Apart from providing privacy, they also double up as decorative pieces to enhance your overall interior design – Whether it’s the small side window at the kitchen, tall vertical window by the stairs or the private windows of your bedrooms.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-12">
+                                <div class="img-shadow">
+                                    <img src="assets/img/product-carousel-4.webp" class="feature-img img-fluid" alt="curtain">
+                                    <div class="d-flex">
+                                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+                                            <span><img src="assets/img/white-arrow-right.png" alt=""></span> &nbsp; Back
+                                        </button>
+                                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+                                            Next &nbsp; <span><img src="assets/img/white-arrow.png" alt=""></span>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!------------------------ section-3 day-curtain ---------------------->
+<section>
+    <div class="day-curtain">
+        <div class="container">
+            <div class="row justify-content-center g-3">
+                <div class="col-12 text-center">
+                    <div class="test-primary">
+                        <h1 class="mt-lg-0">Unleash Your Style: <span> Vivid Choices, Vibrant Spaces</span></h1>
+                        <p>Explore a spectrum of colors from bold red to soft pastels. Our creative prints offer a match for every taste, making it easy to transform your living spaces into a true reflection of your style.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-12">
+                    <div class="roller-fabric">
+                        <img src="assets/img/red-fabric.jpg" class="w-100" alt="fabric">
+                        <a href="#"><button class="btn-roller">Bold Red</button></a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-12">
+                    <div class="roller-fabric">
+                        <img src="assets/img/pink-fabric.jpg" class="w-100" alt="fabric">
+                        <a href="#"><button class="btn-roller">shocking pink</button></a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-12">
+                    <div class="roller-fabric">
+                        <img src="assets/img/fabric-swatch.jpg" class="w-100" alt="fabric">
+                        <a href="#"><button class="btn-roller">soft pastel colours</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!------------------------ section-4 day-curtain ---------------------->
+<section>
+    <div class="day-curtain">
+        <div class="container">
+            <div class="row justify-content-center g-lg-5 g-3">
+                <div class="col-12 text-center">
+                    <div class="test-primary">
+                        <h1 class="mt-lg-0">Roller Blinds: <span> Effortless Excellence</span></h1>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-6 col-12">
+                    <div class="features">
+                        <div class="feature-img text-center">
+                            <img src="assets/img/roller-1.png" alt="layers" width="50px">
+                        </div>
+                        <h5>Easy Setup and Operation</h5>
+                        <p>Whether you prefer manual control or automation, roller blinds offer an easy and adaptable installation process. The power to choose is in your hands.</p>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-6 col-12">
+                    <div class="features">
+                        <div class="feature-img text-center">
+                            <img src="assets/img/roller-2.png" alt="layers" width="50px">
+                        </div>
+                        <h5>Built to Last</h5>
+                        <p>Crafted with enduring steel tubes, premium fabric, and sturdy frames, roller blinds ensure durability and longevity, promising a lasting investment.</p>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-6 col-12">
+                    <div class="features">
+                        <div class="feature-img text-center">
+                            <img src="assets/img/roller-3.png" alt="layers" width="50px">
+                        </div>
+                        <h5>Affordable Luxury</h5>
+                        <p>Balancing affordability with exceptional features, roller blinds stand out as one of the most cost-effective window covering options. Their superior benefits make them a popular and enduring choice among homeowners.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!------------------------ section-5 our works ---------------------->
+<section>
+    <div class="our-works">
+        <div class="container-fluid p-0">
+            <div class="row g-0">
+                <div class="col-12">
+                    <div class="test-primary text-center">
+                        <h1 class="pb-4 mt-0">Take A Look: <span> Our Works</span></h1>
+                    </div>
+                    <div class="owl-carousel owl-theme our-work">
+                        <div class="item"><img src="assets/img/roller-look-3.png" class="w-100"></div>
+                        <div class="item"><img src="assets/img/roller-look-4.png" class="w-100"></div>
+                        <div class="item"><img src="assets/img/roller-look-3.png" class="w-100"></div>
+                        <div class="item"><img src="assets/img/roller-look-4.png" class="w-100"></div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!------------------------ section-6 get in ---------------------->
+<section>
+    <div class="get-in">
+        <div class="container-xxl">
+            <div class="row align-items-center text-white">
+                <div class="col-md-1"></div>
+                <div class="col-md-4 col-12 py-lg-0 py-5 mt-lg-0 mt-4">
+                    <div class="get-text">
+                        <h1 class="py-md-1">Get In Touch With Us!</h1>
+                        <p>Meet with our experienced curtains experts for any furnishing needs and ideas</p>
+                        <button class="btn-home">
+                            <div class="btn-text">
+                                <div class="learn"><img src="assets/img/home.png" alt="home">Contact Us Today!</div><span><i class="fa fa-angle-right"></i></span>
+                            </div>
+                        </button>
+                    </div>
+                </div>
+                <div class="col-md-7 col-12 ps-lg-5 pe-lg-0">
+                    <img src="assets/img/get-in.png" alt="" class="w-100">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<?php include('footer.php') ?>
