@@ -85,7 +85,7 @@
                                             </nav>
                                         </div>
                                         <div class="col-lg-5 tab-content d-none d-md-block">
-                                            <div class="tab-pane fade show active" id="category_tab1"><img src="assets/img/drop-1.jpg" class="img-fluid"></div>
+                                            <div class="tab-pane fade show active" id="category_tab1"><img src="assets/img/drop-1.webp" class="img-fluid"></div>
                                             <div class="tab-pane fade" id="category_tab2"><img src="assets/img/drop-2.webp" class="img-fluid"></div>
                                             <div class="tab-pane fade" id="category_tab3"><img src="assets/img/drop-3.webp" class="img-fluid"></div>
                                             <div class="tab-pane fade" id="category_tab4"><img src="assets/img/drop-4.webp" class="img-fluid"></div>
