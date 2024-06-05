@@ -143,7 +143,7 @@
                     <div class="test-primary">
                         <h1 class="mt-lg-0">Ziptrak™ motorised system: <span> Specialized Features</span></h1>
                     </div>
-                </div>                
+                </div>
                 <div class="col-lg-5 col-md-6 col-12">
                     <div class="features">
                         <div class="feature-img text-center">
